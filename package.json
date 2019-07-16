@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Amit64/background_generator/issues"
   },
-  "homepage": "https://github.com/Amit64/background_generator#readme"
+  "homepage": "https://github.com/Amit64/background_generator#readme",
+  "dependencies": {
+    "open": "^6.4.0"
+  }
 }
